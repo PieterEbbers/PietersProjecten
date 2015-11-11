@@ -2,7 +2,6 @@ package Pieteraria;
 
 import java.awt.Color;
 import java.awt.Graphics2D;
-import java.awt.Rectangle;
 
 public class Player
 {
@@ -18,9 +17,9 @@ public class Player
 	
 	public void render(Graphics2D g)
 	{
-		g.setColor(Color.MAGENTA);
+		g.setColor(Color.WHITE);
 		g.drawRect(x - r,y - r,width,height);
-		g.setColor(Color.GREEN);
+		g.setColor(Color.WHITE.darker());
 		g.fillRect(x - r, y -r, width, height);
 	}
 	
