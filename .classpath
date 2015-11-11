@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/LWJGL"/>
+	<classpathentry kind="lib" path="/Users/ramonmoorlag/Downloads/slick-util.jar"/>
+	<classpathentry kind="lib" path="/Users/ramonmoorlag/Documents/HTTPClient/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/ramonmoorlag/Documents/HTTPClient/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/ramonmoorlag/Documents/HTTPClient/fluent-hc-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ramonmoorlag/Documents/HTTPClient/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ramonmoorlag/Documents/HTTPClient/httpclient-cache-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ramonmoorlag/Documents/HTTPClient/httpclient-win-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ramonmoorlag/Documents/HTTPClient/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ramonmoorlag/Documents/HTTPClient/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ramonmoorlag/Documents/HTTPClient/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ramonmoorlag/Documents/HTTPClient/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
